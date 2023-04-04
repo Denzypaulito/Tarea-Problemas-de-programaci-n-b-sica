@@ -1,4 +1,5 @@
 # Tarea Problemas de Programación Básica 
+## Denzel Alexander Muñoz Santana 348802
 
 1.- Hacer un programa que imprima los números del 1 al 100.
 
